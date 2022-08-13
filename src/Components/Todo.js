@@ -31,7 +31,7 @@ function Todo() {
                 <div className="col shadow main-col bg-white">
                     <div className="row bg-primary text-white">
                         <div className="col  p-2">
-                            <h4 className='text-center'>Todo App Using React JS</h4>
+                            <h4 className='text-center'>Todo App </h4>
                         </div>
                     </div>
                     <form onSubmit={submitHandler}>
